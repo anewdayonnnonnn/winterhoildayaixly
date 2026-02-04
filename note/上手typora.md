@@ -47,7 +47,7 @@
 
 
 
-代码块（三个飘号`)
+代码块（三个飘号`) 快捷键（ctrl shift k）
 
 ```c++
 #include <iostream>
@@ -57,5 +57,7 @@ using namespace std;
 {return 0;}
 ```
 
+
 ~~111~~（详见格式）
+
 
