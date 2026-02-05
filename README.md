@@ -1,2 +1,2 @@
 # winterhoildayaixly
-寒假ai训练营笔记
+寒假ai训练营
